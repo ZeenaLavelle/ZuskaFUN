@@ -1,1 +1,0 @@
-.grid{display:grid;grid-template-columns:1fr;grid-template-rows:auto auto;gap:40px;width:min(100% - 40px,1000px);margin-inline:auto}@media(min-width: 56.25em){.grid{grid-template-columns:2fr 1fr;grid-template-rows:auto}}.grid__main,.grid__sidebar{padding:40px}.grid__main{background-color:#070774}.grid__sidebar{background-color:#710471}/*# sourceMappingURL=index.css.map */
