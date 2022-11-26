@@ -41,7 +41,7 @@ a:active {
 :root {
   --background-color: hsl(199, 17%, 32%);
   --text-color: hsl(0, 0%, 100%);
-  --minimum-screen-width: 320px;
+  --minimum-screen-width: u.rem(320);
 }
 
 .grid {
